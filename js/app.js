@@ -1,4 +1,3 @@
-
 function to_arr_numb(n) {
     var n = n.toString().split(''),
         arr = [];
@@ -41,8 +40,4 @@ function update() {
     }
 }
 
-setInterval(update, 1000)
-
-/*
-
-*/
+setInterval(update, 1000);
