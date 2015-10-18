@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+}
+
+body {
+	overflow: hidden;
+}
+.clock {
+	width: 820px;
+	height: 500px;
+	margin: auto;
+	margin-top: 15px;
+
+	display: block;
+
+}
