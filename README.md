@@ -13,7 +13,3 @@ by by humans since 1982
 $ git clone https://github.com/ubaydinoyatov/clockclock.git
 $ cd clockclock
 ```
-
-License
-----
-MIT
